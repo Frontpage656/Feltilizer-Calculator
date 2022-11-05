@@ -1,5 +1,9 @@
 # Feltilizer-Calculator
 
+## Prepared by:
+   1: Oscar Ashely
+   
+   2: Dalvin mmbaga
 
 ### Research Focus: Agriculture
 
